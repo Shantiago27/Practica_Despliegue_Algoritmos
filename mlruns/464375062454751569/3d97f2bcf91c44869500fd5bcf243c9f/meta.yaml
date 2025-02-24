@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Santiago/Desktop/KeepCoding/Entrega%20Practicas/Entrega-Practica-Despliegue-Algoritmos/mlruns/464375062454751569/3d97f2bcf91c44869500fd5bcf243c9f/artifacts
+deleted_time: 1740386153893
+end_time: null
+entry_point_name: ''
+experiment_id: '464375062454751569'
+lifecycle_stage: deleted
+run_id: 3d97f2bcf91c44869500fd5bcf243c9f
+run_name: powerful-donkey-0
+run_uuid: 3d97f2bcf91c44869500fd5bcf243c9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740384655783
+status: 1
+tags: []
+user_id: Santiago

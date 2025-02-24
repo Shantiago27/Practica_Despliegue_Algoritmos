@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Santiago/Desktop/KeepCoding/Entrega%20Practicas/Entrega-Practica-Despliegue-Algoritmos/mlruns/557301898275049718/473d48544b1b4590b6657e06a138012d/artifacts
+end_time: 1740388682829
+entry_point_name: ''
+experiment_id: '557301898275049718'
+lifecycle_stage: active
+run_id: 473d48544b1b4590b6657e06a138012d
+run_name: rumbling-carp-371
+run_uuid: 473d48544b1b4590b6657e06a138012d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740388673802
+status: 3
+tags: []
+user_id: Santiago

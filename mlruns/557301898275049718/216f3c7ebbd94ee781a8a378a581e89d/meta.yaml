@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Santiago/Desktop/KeepCoding/Entrega%20Practicas/Entrega-Practica-Despliegue-Algoritmos/mlruns/557301898275049718/216f3c7ebbd94ee781a8a378a581e89d/artifacts
+deleted_time: 1740388312359
+end_time: 1740388164093
+entry_point_name: ''
+experiment_id: '557301898275049718'
+lifecycle_stage: deleted
+run_id: 216f3c7ebbd94ee781a8a378a581e89d
+run_name: thoughtful-toad-904
+run_uuid: 216f3c7ebbd94ee781a8a378a581e89d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740388164030
+status: 3
+tags: []
+user_id: Santiago

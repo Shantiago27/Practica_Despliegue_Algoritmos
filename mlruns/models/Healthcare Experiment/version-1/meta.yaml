@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740388940856
+current_stage: Production
+description: ''
+last_updated_timestamp: 1740389092445
+name: Healthcare Experiment
+run_id: 83adf7059374477ea3950b0525569c9d
+run_link: ''
+source: file:///c:/Users/Santiago/Desktop/KeepCoding/Entrega%20Practicas/Entrega-Practica-Despliegue-Algoritmos/mlruns/557301898275049718/83adf7059374477ea3950b0525569c9d/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Santiago/Desktop/KeepCoding/Entrega%20Practicas/Entrega-Practica-Despliegue-Algoritmos/mlruns/557301898275049718/83adf7059374477ea3950b0525569c9d/artifacts/model
+user_id: null
+version: 1

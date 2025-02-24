@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Santiago/Desktop/KeepCoding/Entrega%20Practicas/Entrega-Practica-Despliegue-Algoritmos/mlruns/557301898275049718/d571b07b15d74a4482c789e2ef6c6722/artifacts
+end_time: 1740387622549
+entry_point_name: ''
+experiment_id: '557301898275049718'
+lifecycle_stage: active
+run_id: d571b07b15d74a4482c789e2ef6c6722
+run_name: thoughtful-hawk-693
+run_uuid: d571b07b15d74a4482c789e2ef6c6722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740387613129
+status: 3
+tags: []
+user_id: Santiago

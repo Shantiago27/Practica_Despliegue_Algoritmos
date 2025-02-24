@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Santiago/Desktop/KeepCoding/Entrega%20Practicas/Entrega-Practica-Despliegue-Algoritmos/mlruns/557301898275049718/f5d72fa18acf47a08c72f853b5df0586/artifacts
+end_time: 1740388056074
+entry_point_name: ''
+experiment_id: '557301898275049718'
+lifecycle_stage: active
+run_id: f5d72fa18acf47a08c72f853b5df0586
+run_name: fearless-bear-661
+run_uuid: f5d72fa18acf47a08c72f853b5df0586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740388046557
+status: 3
+tags: []
+user_id: Santiago

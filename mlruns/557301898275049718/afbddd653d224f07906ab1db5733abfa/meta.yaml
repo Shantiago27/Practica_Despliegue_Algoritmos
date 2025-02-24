@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Santiago/Desktop/KeepCoding/Entrega%20Practicas/Entrega-Practica-Despliegue-Algoritmos/mlruns/557301898275049718/afbddd653d224f07906ab1db5733abfa/artifacts
+end_time: 1740388523405
+entry_point_name: ''
+experiment_id: '557301898275049718'
+lifecycle_stage: active
+run_id: afbddd653d224f07906ab1db5733abfa
+run_name: thundering-fawn-537
+run_uuid: afbddd653d224f07906ab1db5733abfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740388514100
+status: 3
+tags: []
+user_id: Santiago

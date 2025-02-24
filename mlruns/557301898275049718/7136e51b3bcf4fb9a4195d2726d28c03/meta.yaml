@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Santiago/Desktop/KeepCoding/Entrega%20Practicas/Entrega-Practica-Despliegue-Algoritmos/mlruns/557301898275049718/7136e51b3bcf4fb9a4195d2726d28c03/artifacts
+end_time: 1740387951954
+entry_point_name: ''
+experiment_id: '557301898275049718'
+lifecycle_stage: active
+run_id: 7136e51b3bcf4fb9a4195d2726d28c03
+run_name: enthused-hog-392
+run_uuid: 7136e51b3bcf4fb9a4195d2726d28c03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740387942533
+status: 3
+tags: []
+user_id: Santiago

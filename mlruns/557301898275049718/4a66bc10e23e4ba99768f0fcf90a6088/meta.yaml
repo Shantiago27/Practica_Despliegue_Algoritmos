@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Santiago/Desktop/KeepCoding/Entrega%20Practicas/Entrega-Practica-Despliegue-Algoritmos/mlruns/557301898275049718/4a66bc10e23e4ba99768f0fcf90a6088/artifacts
+deleted_time: 1740388490022
+end_time: 1740388411488
+entry_point_name: ''
+experiment_id: '557301898275049718'
+lifecycle_stage: deleted
+run_id: 4a66bc10e23e4ba99768f0fcf90a6088
+run_name: rare-fawn-835
+run_uuid: 4a66bc10e23e4ba99768f0fcf90a6088
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740388402388
+status: 3
+tags: []
+user_id: Santiago

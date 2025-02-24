@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Santiago/Desktop/KeepCoding/Entrega%20Practicas/Entrega-Practica-Despliegue-Algoritmos/mlruns/470627577121268289/47696a0032f14c3ebd84c19afbc5c84c/artifacts
+end_time: 1740381778157
+entry_point_name: ''
+experiment_id: '470627577121268289'
+lifecycle_stage: active
+run_id: 47696a0032f14c3ebd84c19afbc5c84c
+run_name: nervous-ant-316
+run_uuid: 47696a0032f14c3ebd84c19afbc5c84c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740381778035
+status: 3
+tags: []
+user_id: Santiago

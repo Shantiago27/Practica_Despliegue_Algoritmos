@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Santiago/Desktop/KeepCoding/Entrega%20Practicas/Entrega-Practica-Despliegue-Algoritmos/mlruns/464375062454751569/46d2591c74034fb699e5002e85fc49c9/artifacts
+end_time: 1740383238366
+entry_point_name: ''
+experiment_id: '464375062454751569'
+lifecycle_stage: active
+run_id: 46d2591c74034fb699e5002e85fc49c9
+run_name: marvelous-eel-304
+run_uuid: 46d2591c74034fb699e5002e85fc49c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740383226799
+status: 3
+tags: []
+user_id: Santiago

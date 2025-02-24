@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Santiago/Desktop/KeepCoding/Entrega%20Practicas/Entrega-Practica-Despliegue-Algoritmos/mlruns/557301898275049718/83adf7059374477ea3950b0525569c9d/artifacts
+end_time: 1740388736660
+entry_point_name: ''
+experiment_id: '557301898275049718'
+lifecycle_stage: active
+run_id: 83adf7059374477ea3950b0525569c9d
+run_name: amazing-squirrel-499
+run_uuid: 83adf7059374477ea3950b0525569c9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740388727231
+status: 3
+tags: []
+user_id: Santiago

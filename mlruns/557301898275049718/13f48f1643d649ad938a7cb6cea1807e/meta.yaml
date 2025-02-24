@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Santiago/Desktop/KeepCoding/Entrega%20Practicas/Entrega-Practica-Despliegue-Algoritmos/mlruns/557301898275049718/13f48f1643d649ad938a7cb6cea1807e/artifacts
+deleted_time: 1740388354851
+end_time: 1740387455221
+entry_point_name: ''
+experiment_id: '557301898275049718'
+lifecycle_stage: deleted
+run_id: 13f48f1643d649ad938a7cb6cea1807e
+run_name: nervous-pug-234
+run_uuid: 13f48f1643d649ad938a7cb6cea1807e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740387455148
+status: 3
+tags: []
+user_id: Santiago

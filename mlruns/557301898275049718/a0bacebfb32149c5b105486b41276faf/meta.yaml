@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Santiago/Desktop/KeepCoding/Entrega%20Practicas/Entrega-Practica-Despliegue-Algoritmos/mlruns/557301898275049718/a0bacebfb32149c5b105486b41276faf/artifacts
+deleted_time: 1740388490022
+end_time: 1740388295855
+entry_point_name: ''
+experiment_id: '557301898275049718'
+lifecycle_stage: deleted
+run_id: a0bacebfb32149c5b105486b41276faf
+run_name: bouncy-elk-619
+run_uuid: a0bacebfb32149c5b105486b41276faf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740388287378
+status: 3
+tags: []
+user_id: Santiago
